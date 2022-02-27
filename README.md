@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @PurushotamSah
-- 👀 I’m interested in Android App and Web developer
-- 🌱 I’m currently learning Python core and advance
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Android App, IOS, Blockchain and Web developer
+- 🌱 I’m currently learning JavaScript, React JS and Node JS
+- 💞️ I’m looking Developer role job
 - 📫 How to reach me ...
 
 <!---
